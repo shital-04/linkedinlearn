@@ -11,6 +11,7 @@ public class TestInheritance {
 	M1.setBonus(100000);
 	M1.doAppraisals();
 	M1.doReviews();
+//Adding comments 
 	
 	
 	}
