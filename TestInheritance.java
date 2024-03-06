@@ -12,6 +12,8 @@ public class TestInheritance {
 	M1.doAppraisals();
 	M1.doReviews();
 //Adding comments 
+//Added comments for staging
+//Added comments after staging
 	
 	
 	}
